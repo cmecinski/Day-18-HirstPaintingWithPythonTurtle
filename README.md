@@ -1,6 +1,7 @@
 # Day-18-HirstPaintingWithPythonTurtle
 
 Created a dot painting using Python Turtle Graphics:
+
 https://docs.python.org/3/library/turtle.html
 https://docs.python.org/3/library/random.html
 
