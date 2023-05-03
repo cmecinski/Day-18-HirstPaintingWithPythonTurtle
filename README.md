@@ -2,8 +2,8 @@
 
 Created a dot painting using Python Turtle Graphics:
 
-https://docs.python.org/3/library/turtle.html
-https://docs.python.org/3/library/random.html
+  https://docs.python.org/3/library/turtle.html
+  https://docs.python.org/3/library/random.html
 
 used cologram to obtain color pallete from image https://pypi.org/project/colorgram.py/
 
